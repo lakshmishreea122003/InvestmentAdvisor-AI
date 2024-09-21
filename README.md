@@ -1,5 +1,4 @@
 # Investment Advisor AI 
-## This project will be ready by 18/7/24
 ### the feature that will be included are:
 - Provides investment related advises with features like stock price prediction, sentiment analysis, financial doc analysis and RAG-enabled bot.
 - LSTM ML model for prediction.
